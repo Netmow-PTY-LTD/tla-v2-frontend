@@ -1,7 +1,9 @@
+/* Tailwind directives should follow imports */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Custom global styles */
 :root {
   --background: #ffffff;
   --foreground: #171717;
